@@ -1,0 +1,8 @@
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\outputs all letters in a string\outputs all letters in a string\bin\Debug\outputs all letters in a string.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\outputs all letters in a string\outputs all letters in a string\bin\Debug\outputs all letters in a string.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\outputs all letters in a string\outputs all letters in a string\bin\Debug\outputs all letters in a string.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\outputs all letters in a string\outputs all letters in a string\obj\Debug\outputs all letters in a string.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\outputs all letters in a string\outputs all letters in a string\obj\Debug\outputs all letters in a string.csproj.SuggestedBindingRedirects.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\outputs all letters in a string\outputs all letters in a string\obj\Debug\outputs all letters in a string.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\outputs all letters in a string\outputs all letters in a string\obj\Debug\outputs all letters in a string.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\outputs all letters in a string\outputs all letters in a string\obj\Debug\outputs all letters in a string.pdb

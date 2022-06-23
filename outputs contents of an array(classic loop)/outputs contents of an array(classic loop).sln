@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "outputs contents of an array(classic loop)", "outputs contents of an array(classic loop)\outputs contents of an array(classic loop).csproj", "{44FE1E15-CCB8-4F52-A6F0-9561EAB3570D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44FE1E15-CCB8-4F52-A6F0-9561EAB3570D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44FE1E15-CCB8-4F52-A6F0-9561EAB3570D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44FE1E15-CCB8-4F52-A6F0-9561EAB3570D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44FE1E15-CCB8-4F52-A6F0-9561EAB3570D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D633CD0-476E-4678-A5A8-470C82F02D32}
+	EndGlobalSection
+EndGlobal
