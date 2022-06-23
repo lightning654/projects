@@ -1,0 +1,7 @@
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\extracts word from middle of string\extracts word from middle of string\bin\Debug\extracts word from middle of string.exe.config
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\extracts word from middle of string\extracts word from middle of string\bin\Debug\extracts word from middle of string.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\extracts word from middle of string\extracts word from middle of string\bin\Debug\extracts word from middle of string.pdb
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\extracts word from middle of string\extracts word from middle of string\obj\Debug\extracts word from middle of string.csproj.AssemblyReference.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\extracts word from middle of string\extracts word from middle of string\obj\Debug\extracts word from middle of string.csproj.CoreCompileInputs.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\extracts word from middle of string\extracts word from middle of string\obj\Debug\extracts word from middle of string.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\extracts word from middle of string\extracts word from middle of string\obj\Debug\extracts word from middle of string.pdb

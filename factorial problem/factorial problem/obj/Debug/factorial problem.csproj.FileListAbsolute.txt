@@ -1,0 +1,8 @@
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\factorial problem\factorial problem\bin\Debug\factorial problem.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\factorial problem\factorial problem\bin\Debug\factorial problem.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\factorial problem\factorial problem\bin\Debug\factorial problem.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\factorial problem\factorial problem\obj\Debug\factorial problem.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\factorial problem\factorial problem\obj\Debug\factorial problem.csproj.SuggestedBindingRedirects.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\factorial problem\factorial problem\obj\Debug\factorial problem.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\factorial problem\factorial problem\obj\Debug\factorial problem.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\factorial problem\factorial problem\obj\Debug\factorial problem.pdb
