@@ -1,0 +1,8 @@
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\calculates least common denominator\calculates least common denominator\bin\Debug\calculates least common denominator.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\calculates least common denominator\calculates least common denominator\bin\Debug\calculates least common denominator.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\calculates least common denominator\calculates least common denominator\bin\Debug\calculates least common denominator.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\calculates least common denominator\calculates least common denominator\obj\Debug\calculates least common denominator.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\calculates least common denominator\calculates least common denominator\obj\Debug\calculates least common denominator.csproj.SuggestedBindingRedirects.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\calculates least common denominator\calculates least common denominator\obj\Debug\calculates least common denominator.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\calculates least common denominator\calculates least common denominator\obj\Debug\calculates least common denominator.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\calculates least common denominator\calculates least common denominator\obj\Debug\calculates least common denominator.pdb
