@@ -1,0 +1,7 @@
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\career quote problem\career quote problem\bin\Debug\career quote problem.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\career quote problem\career quote problem\bin\Debug\career quote problem.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\career quote problem\career quote problem\bin\Debug\career quote problem.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\career quote problem\career quote problem\obj\Debug\career quote problem.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\career quote problem\career quote problem\obj\Debug\career quote problem.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\career quote problem\career quote problem\obj\Debug\career quote problem.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\career quote problem\career quote problem\obj\Debug\career quote problem.pdb

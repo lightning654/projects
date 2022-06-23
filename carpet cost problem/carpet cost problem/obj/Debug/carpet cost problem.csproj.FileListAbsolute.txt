@@ -1,0 +1,14 @@
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\carpet cost problem\carpet cost problem\bin\Debug\carpet cost problem.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\carpet cost problem\carpet cost problem\bin\Debug\carpet cost problem.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\carpet cost problem\carpet cost problem\bin\Debug\carpet cost problem.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\carpet cost problem\carpet cost problem\obj\Debug\carpet cost problem.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\carpet cost problem\carpet cost problem\obj\Debug\carpet cost problem.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\carpet cost problem\carpet cost problem\obj\Debug\carpet cost problem.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\carpet cost problem\carpet cost problem\obj\Debug\carpet cost problem.pdb
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\carpet cost problem\carpet cost problem\bin\Debug\carpet cost problem.exe.config
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\carpet cost problem\carpet cost problem\bin\Debug\carpet cost problem.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\carpet cost problem\carpet cost problem\bin\Debug\carpet cost problem.pdb
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\carpet cost problem\carpet cost problem\obj\Debug\carpet cost problem.csproj.AssemblyReference.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\carpet cost problem\carpet cost problem\obj\Debug\carpet cost problem.csproj.CoreCompileInputs.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\carpet cost problem\carpet cost problem\obj\Debug\carpet cost problem.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\carpet cost problem\carpet cost problem\obj\Debug\carpet cost problem.pdb
