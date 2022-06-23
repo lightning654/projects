@@ -1,0 +1,7 @@
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\Divisible problem\Divisible problem\bin\Debug\Divisible problem.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\Divisible problem\Divisible problem\bin\Debug\Divisible problem.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\Divisible problem\Divisible problem\bin\Debug\Divisible problem.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\Divisible problem\Divisible problem\obj\Debug\Divisible problem.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\Divisible problem\Divisible problem\obj\Debug\Divisible problem.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\Divisible problem\Divisible problem\obj\Debug\Divisible problem.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\Divisible problem\Divisible problem\obj\Debug\Divisible problem.pdb

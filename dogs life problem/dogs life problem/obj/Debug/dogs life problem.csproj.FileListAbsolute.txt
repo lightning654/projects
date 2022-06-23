@@ -1,0 +1,7 @@
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\dogs life problem\dogs life problem\bin\Debug\dogs life problem.exe.config
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\dogs life problem\dogs life problem\bin\Debug\dogs life problem.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\dogs life problem\dogs life problem\bin\Debug\dogs life problem.pdb
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\dogs life problem\dogs life problem\obj\Debug\dogs life problem.csproj.AssemblyReference.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\dogs life problem\dogs life problem\obj\Debug\dogs life problem.csproj.CoreCompileInputs.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\dogs life problem\dogs life problem\obj\Debug\dogs life problem.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\dogs life problem\dogs life problem\obj\Debug\dogs life problem.pdb
