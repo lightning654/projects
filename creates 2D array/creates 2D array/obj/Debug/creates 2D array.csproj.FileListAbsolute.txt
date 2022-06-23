@@ -1,0 +1,7 @@
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\creates 2D array\creates 2D array\bin\Debug\creates 2D array.exe.config
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\creates 2D array\creates 2D array\bin\Debug\creates 2D array.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\creates 2D array\creates 2D array\bin\Debug\creates 2D array.pdb
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\creates 2D array\creates 2D array\obj\Debug\creates 2D array.csproj.AssemblyReference.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\creates 2D array\creates 2D array\obj\Debug\creates 2D array.csproj.CoreCompileInputs.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\creates 2D array\creates 2D array\obj\Debug\creates 2D array.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\creates 2D array\creates 2D array\obj\Debug\creates 2D array.pdb

@@ -1,0 +1,7 @@
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\Currency Problem\Currency Problem\bin\Debug\Currency Problem.exe.config
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\Currency Problem\Currency Problem\bin\Debug\Currency Problem.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\Currency Problem\Currency Problem\bin\Debug\Currency Problem.pdb
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\Currency Problem\Currency Problem\obj\Debug\Currency Problem.csproj.AssemblyReference.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\Currency Problem\Currency Problem\obj\Debug\Currency Problem.csproj.CoreCompileInputs.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\Currency Problem\Currency Problem\obj\Debug\Currency Problem.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\Currency Problem\Currency Problem\obj\Debug\Currency Problem.pdb
