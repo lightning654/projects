@@ -1,0 +1,7 @@
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\nitrate problem\nitrate problem\obj\Debug\nitrate problem.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\nitrate problem\nitrate problem\obj\Debug\nitrate problem.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\nitrate problem\nitrate problem\bin\Debug\nitrate problem.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\nitrate problem\nitrate problem\bin\Debug\nitrate problem.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\nitrate problem\nitrate problem\bin\Debug\nitrate problem.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\nitrate problem\nitrate problem\obj\Debug\nitrate problem.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\nitrate problem\nitrate problem\obj\Debug\nitrate problem.pdb
