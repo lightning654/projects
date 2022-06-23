@@ -1,0 +1,7 @@
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\casting and operators\casting and operators\bin\Debug\casting and operators.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\casting and operators\casting and operators\bin\Debug\casting and operators.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\casting and operators\casting and operators\bin\Debug\casting and operators.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\casting and operators\casting and operators\obj\Debug\casting and operators.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\casting and operators\casting and operators\obj\Debug\casting and operators.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\casting and operators\casting and operators\obj\Debug\casting and operators.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\casting and operators\casting and operators\obj\Debug\casting and operators.pdb

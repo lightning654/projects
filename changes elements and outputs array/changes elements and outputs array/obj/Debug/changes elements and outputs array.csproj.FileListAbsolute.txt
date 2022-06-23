@@ -1,0 +1,7 @@
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\changes elements and outputs array\changes elements and outputs array\bin\Debug\changes elements and outputs array.exe.config
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\changes elements and outputs array\changes elements and outputs array\bin\Debug\changes elements and outputs array.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\changes elements and outputs array\changes elements and outputs array\bin\Debug\changes elements and outputs array.pdb
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\changes elements and outputs array\changes elements and outputs array\obj\Debug\changes elements and outputs array.csproj.AssemblyReference.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\changes elements and outputs array\changes elements and outputs array\obj\Debug\changes elements and outputs array.csproj.CoreCompileInputs.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\changes elements and outputs array\changes elements and outputs array\obj\Debug\changes elements and outputs array.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\changes elements and outputs array\changes elements and outputs array\obj\Debug\changes elements and outputs array.pdb

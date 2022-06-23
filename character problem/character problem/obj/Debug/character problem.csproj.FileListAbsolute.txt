@@ -1,0 +1,7 @@
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\character problem\character problem\bin\Debug\character problem.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\character problem\character problem\bin\Debug\character problem.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\character problem\character problem\bin\Debug\character problem.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\character problem\character problem\obj\Debug\character problem.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\character problem\character problem\obj\Debug\character problem.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\character problem\character problem\obj\Debug\character problem.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\character problem\character problem\obj\Debug\character problem.pdb

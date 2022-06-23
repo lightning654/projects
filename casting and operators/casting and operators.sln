@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "casting and operators", "casting and operators\casting and operators.csproj", "{0C52CF18-731C-4A43-A19B-34802A32EF2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C52CF18-731C-4A43-A19B-34802A32EF2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C52CF18-731C-4A43-A19B-34802A32EF2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C52CF18-731C-4A43-A19B-34802A32EF2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C52CF18-731C-4A43-A19B-34802A32EF2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DA79993-09C3-4598-81BD-A1C1B8E9684A}
+	EndGlobalSection
+EndGlobal
