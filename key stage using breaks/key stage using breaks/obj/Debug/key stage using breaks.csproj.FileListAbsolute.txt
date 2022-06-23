@@ -1,0 +1,7 @@
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\key stage using breaks\key stage using breaks\bin\Debug\key stage using breaks.exe.config
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\key stage using breaks\key stage using breaks\bin\Debug\key stage using breaks.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\key stage using breaks\key stage using breaks\bin\Debug\key stage using breaks.pdb
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\key stage using breaks\key stage using breaks\obj\Debug\key stage using breaks.csproj.AssemblyReference.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\key stage using breaks\key stage using breaks\obj\Debug\key stage using breaks.csproj.CoreCompileInputs.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\key stage using breaks\key stage using breaks\obj\Debug\key stage using breaks.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\key stage using breaks\key stage using breaks\obj\Debug\key stage using breaks.pdb

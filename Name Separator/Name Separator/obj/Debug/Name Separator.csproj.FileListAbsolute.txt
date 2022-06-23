@@ -1,0 +1,7 @@
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\Name Separator\Name Separator\obj\Debug\Name Separator.csproj.AssemblyReference.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\Name Separator\Name Separator\obj\Debug\Name Separator.csproj.CoreCompileInputs.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\Name Separator\Name Separator\bin\Debug\Name Separator.exe.config
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\Name Separator\Name Separator\bin\Debug\Name Separator.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\Name Separator\Name Separator\bin\Debug\Name Separator.pdb
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\Name Separator\Name Separator\obj\Debug\Name Separator.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\Name Separator\Name Separator\obj\Debug\Name Separator.pdb
