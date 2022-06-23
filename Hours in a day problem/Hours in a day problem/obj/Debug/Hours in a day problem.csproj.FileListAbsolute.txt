@@ -1,0 +1,7 @@
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\Hours in a day problem\Hours in a day problem\bin\Debug\Hours in a day problem.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\Hours in a day problem\Hours in a day problem\bin\Debug\Hours in a day problem.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\Hours in a day problem\Hours in a day problem\bin\Debug\Hours in a day problem.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\Hours in a day problem\Hours in a day problem\obj\Debug\Hours in a day problem.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\Hours in a day problem\Hours in a day problem\obj\Debug\Hours in a day problem.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\Hours in a day problem\Hours in a day problem\obj\Debug\Hours in a day problem.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\Hours in a day problem\Hours in a day problem\obj\Debug\Hours in a day problem.pdb

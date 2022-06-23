@@ -1,0 +1,8 @@
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\infinity loop\infinity loop\bin\Debug\infinity loop.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\infinity loop\infinity loop\bin\Debug\infinity loop.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\infinity loop\infinity loop\bin\Debug\infinity loop.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\infinity loop\infinity loop\obj\Debug\infinity loop.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\infinity loop\infinity loop\obj\Debug\infinity loop.csproj.SuggestedBindingRedirects.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\infinity loop\infinity loop\obj\Debug\infinity loop.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\infinity loop\infinity loop\obj\Debug\infinity loop.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\infinity loop\infinity loop\obj\Debug\infinity loop.pdb
