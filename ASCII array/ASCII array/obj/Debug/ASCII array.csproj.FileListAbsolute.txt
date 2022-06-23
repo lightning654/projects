@@ -1,0 +1,7 @@
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\ASCII array\ASCII array\bin\Debug\ASCII array.exe.config
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\ASCII array\ASCII array\bin\Debug\ASCII array.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\ASCII array\ASCII array\bin\Debug\ASCII array.pdb
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\ASCII array\ASCII array\obj\Debug\ASCII array.csproj.AssemblyReference.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\ASCII array\ASCII array\obj\Debug\ASCII array.csproj.CoreCompileInputs.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\ASCII array\ASCII array\obj\Debug\ASCII array.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\ASCII array\ASCII array\obj\Debug\ASCII array.pdb
