@@ -1,0 +1,7 @@
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\even or odd\even or odd\bin\Debug\even or odd.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\even or odd\even or odd\bin\Debug\even or odd.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\even or odd\even or odd\bin\Debug\even or odd.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\even or odd\even or odd\obj\Debug\even or odd.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\even or odd\even or odd\obj\Debug\even or odd.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\even or odd\even or odd\obj\Debug\even or odd.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\even or odd\even or odd\obj\Debug\even or odd.pdb

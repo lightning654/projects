@@ -1,0 +1,7 @@
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\exam grade\exam grade\bin\Debug\exam grade.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\exam grade\exam grade\bin\Debug\exam grade.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\exam grade\exam grade\bin\Debug\exam grade.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\exam grade\exam grade\obj\Debug\exam grade.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\exam grade\exam grade\obj\Debug\exam grade.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\exam grade\exam grade\obj\Debug\exam grade.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\exam grade\exam grade\obj\Debug\exam grade.pdb
