@@ -1,0 +1,7 @@
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\flowrate\flowrate\bin\Debug\flowrate.exe.config
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\flowrate\flowrate\bin\Debug\flowrate.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\flowrate\flowrate\bin\Debug\flowrate.pdb
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\flowrate\flowrate\obj\Debug\flowrate.csproj.AssemblyReference.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\flowrate\flowrate\obj\Debug\flowrate.csproj.CoreCompileInputs.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\flowrate\flowrate\obj\Debug\flowrate.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\flowrate\flowrate\obj\Debug\flowrate.pdb

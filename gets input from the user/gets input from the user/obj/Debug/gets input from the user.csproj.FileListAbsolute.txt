@@ -1,0 +1,7 @@
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\gets input from the user\gets input from the user\bin\Debug\gets input from the user.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\gets input from the user\gets input from the user\bin\Debug\gets input from the user.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\gets input from the user\gets input from the user\bin\Debug\gets input from the user.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\gets input from the user\gets input from the user\obj\Debug\gets input from the user.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\gets input from the user\gets input from the user\obj\Debug\gets input from the user.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\gets input from the user\gets input from the user\obj\Debug\gets input from the user.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\gets input from the user\gets input from the user\obj\Debug\gets input from the user.pdb
