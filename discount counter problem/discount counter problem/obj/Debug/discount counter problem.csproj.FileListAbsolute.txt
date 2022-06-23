@@ -1,0 +1,14 @@
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\discount counter problem\discount counter problem\bin\Debug\discount counter problem.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\discount counter problem\discount counter problem\bin\Debug\discount counter problem.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\discount counter problem\discount counter problem\bin\Debug\discount counter problem.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\discount counter problem\discount counter problem\obj\Debug\discount counter problem.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\discount counter problem\discount counter problem\obj\Debug\discount counter problem.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\discount counter problem\discount counter problem\obj\Debug\discount counter problem.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\discount counter problem\discount counter problem\obj\Debug\discount counter problem.pdb
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\discount counter problem\discount counter problem\bin\Debug\discount counter problem.exe.config
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\discount counter problem\discount counter problem\bin\Debug\discount counter problem.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\discount counter problem\discount counter problem\bin\Debug\discount counter problem.pdb
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\discount counter problem\discount counter problem\obj\Debug\discount counter problem.csproj.AssemblyReference.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\discount counter problem\discount counter problem\obj\Debug\discount counter problem.csproj.CoreCompileInputs.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\discount counter problem\discount counter problem\obj\Debug\discount counter problem.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\discount counter problem\discount counter problem\obj\Debug\discount counter problem.pdb

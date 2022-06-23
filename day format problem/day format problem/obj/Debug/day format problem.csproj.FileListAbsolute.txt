@@ -1,0 +1,7 @@
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\day format problem\day format problem\obj\Debug\day format problem.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\day format problem\day format problem\obj\Debug\day format problem.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\day format problem\day format problem\bin\Debug\day format problem.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\day format problem\day format problem\bin\Debug\day format problem.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\day format problem\day format problem\bin\Debug\day format problem.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\day format problem\day format problem\obj\Debug\day format problem.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\day format problem\day format problem\obj\Debug\day format problem.pdb

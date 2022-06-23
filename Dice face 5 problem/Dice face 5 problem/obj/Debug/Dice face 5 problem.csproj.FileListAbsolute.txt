@@ -1,0 +1,7 @@
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\Dice face 5 problem\Dice face 5 problem\obj\Debug\Dice face 5 problem.csproj.AssemblyReference.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\Dice face 5 problem\Dice face 5 problem\obj\Debug\Dice face 5 problem.csproj.CoreCompileInputs.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\Dice face 5 problem\Dice face 5 problem\bin\Debug\Dice face 5 problem.exe.config
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\Dice face 5 problem\Dice face 5 problem\bin\Debug\Dice face 5 problem.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\Dice face 5 problem\Dice face 5 problem\bin\Debug\Dice face 5 problem.pdb
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\Dice face 5 problem\Dice face 5 problem\obj\Debug\Dice face 5 problem.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\Dice face 5 problem\Dice face 5 problem\obj\Debug\Dice face 5 problem.pdb
