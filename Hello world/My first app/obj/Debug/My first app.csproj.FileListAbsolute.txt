@@ -1,0 +1,16 @@
+Z:\A level cs\C# projects\My first app\My first app\obj\Debug\My first app.csproj.AssemblyReference.cache
+Z:\A level cs\C# projects\My first app\My first app\obj\Debug\My first app.csproj.CoreCompileInputs.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\My first app\My first app\bin\Debug\My first app.exe.config
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\My first app\My first app\bin\Debug\My first app.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\My first app\My first app\bin\Debug\My first app.pdb
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\My first app\My first app\obj\Debug\My first app.csproj.AssemblyReference.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\My first app\My first app\obj\Debug\My first app.csproj.CoreCompileInputs.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\My first app\My first app\obj\Debug\My first app.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\My first app\My first app\obj\Debug\My first app.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\My first app\My first app\bin\Debug\My first app.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\My first app\My first app\bin\Debug\My first app.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\My first app\My first app\bin\Debug\My first app.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\My first app\My first app\obj\Debug\My first app.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\My first app\My first app\obj\Debug\My first app.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\My first app\My first app\obj\Debug\My first app.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\My first app\My first app\obj\Debug\My first app.pdb

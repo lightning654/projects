@@ -1,0 +1,9 @@
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\highest number\highest number\obj\Debug\highest number.csproj.AssemblyReference.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\highest number\highest number\obj\Debug\highest number.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\highest number\highest number\obj\Debug\highest number.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\highest number\highest number\obj\Debug\highest number.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\highest number\highest number\bin\Debug\highest number.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\highest number\highest number\bin\Debug\highest number.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\highest number\highest number\bin\Debug\highest number.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\highest number\highest number\obj\Debug\highest number.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\highest number\highest number\obj\Debug\highest number.pdb
