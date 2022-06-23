@@ -1,0 +1,7 @@
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\checks a user input against a dice roll\checks a user input against a dice roll\bin\Debug\checks a user input against a dice roll.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\checks a user input against a dice roll\checks a user input against a dice roll\bin\Debug\checks a user input against a dice roll.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\checks a user input against a dice roll\checks a user input against a dice roll\bin\Debug\checks a user input against a dice roll.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\checks a user input against a dice roll\checks a user input against a dice roll\obj\Debug\checks a user input against a dice roll.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\checks a user input against a dice roll\checks a user input against a dice roll\obj\Debug\checks a user input against a dice roll.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\checks a user input against a dice roll\checks a user input against a dice roll\obj\Debug\checks a user input against a dice roll.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\checks a user input against a dice roll\checks a user input against a dice roll\obj\Debug\checks a user input against a dice roll.pdb
