@@ -1,0 +1,8 @@
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\prime number problem\prime number problem\bin\Debug\prime number problem.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\prime number problem\prime number problem\bin\Debug\prime number problem.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\prime number problem\prime number problem\bin\Debug\prime number problem.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\prime number problem\prime number problem\obj\Debug\prime number problem.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\prime number problem\prime number problem\obj\Debug\prime number problem.csproj.SuggestedBindingRedirects.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\prime number problem\prime number problem\obj\Debug\prime number problem.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\prime number problem\prime number problem\obj\Debug\prime number problem.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\prime number problem\prime number problem\obj\Debug\prime number problem.pdb

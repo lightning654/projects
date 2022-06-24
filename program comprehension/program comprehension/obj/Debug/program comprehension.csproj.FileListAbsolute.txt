@@ -1,0 +1,7 @@
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\program comprehension\program comprehension\obj\Debug\program comprehension.csproj.AssemblyReference.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\program comprehension\program comprehension\obj\Debug\program comprehension.csproj.CoreCompileInputs.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\program comprehension\program comprehension\bin\Debug\program comprehension.exe.config
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\program comprehension\program comprehension\bin\Debug\program comprehension.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\program comprehension\program comprehension\bin\Debug\program comprehension.pdb
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\program comprehension\program comprehension\obj\Debug\program comprehension.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\program comprehension\program comprehension\obj\Debug\program comprehension.pdb

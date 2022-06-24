@@ -1,0 +1,7 @@
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\polyhedral dice poblem\polyhedral dice poblem\bin\Debug\polyhedral dice poblem.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\polyhedral dice poblem\polyhedral dice poblem\bin\Debug\polyhedral dice poblem.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\polyhedral dice poblem\polyhedral dice poblem\bin\Debug\polyhedral dice poblem.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\polyhedral dice poblem\polyhedral dice poblem\obj\Debug\polyhedral dice poblem.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\polyhedral dice poblem\polyhedral dice poblem\obj\Debug\polyhedral dice poblem.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\polyhedral dice poblem\polyhedral dice poblem\obj\Debug\polyhedral dice poblem.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\polyhedral dice poblem\polyhedral dice poblem\obj\Debug\polyhedral dice poblem.pdb
