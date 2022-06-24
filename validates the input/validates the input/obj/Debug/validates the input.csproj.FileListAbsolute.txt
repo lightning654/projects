@@ -1,0 +1,7 @@
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\validates the input\validates the input\bin\Debug\validates the input.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\validates the input\validates the input\bin\Debug\validates the input.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\validates the input\validates the input\bin\Debug\validates the input.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\validates the input\validates the input\obj\Debug\validates the input.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\validates the input\validates the input\obj\Debug\validates the input.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\validates the input\validates the input\obj\Debug\validates the input.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\validates the input\validates the input\obj\Debug\validates the input.pdb

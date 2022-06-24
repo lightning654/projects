@@ -1,0 +1,7 @@
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\VAT calculator\VAT calculator\bin\Debug\VAT calculator.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\VAT calculator\VAT calculator\bin\Debug\VAT calculator.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\VAT calculator\VAT calculator\bin\Debug\VAT calculator.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\VAT calculator\VAT calculator\obj\Debug\VAT calculator.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\VAT calculator\VAT calculator\obj\Debug\VAT calculator.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\VAT calculator\VAT calculator\obj\Debug\VAT calculator.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\VAT calculator\VAT calculator\obj\Debug\VAT calculator.pdb
