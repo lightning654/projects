@@ -1,0 +1,7 @@
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\save the change problem\save the change problem\bin\Debug\save the change problem.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\save the change problem\save the change problem\bin\Debug\save the change problem.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\save the change problem\save the change problem\bin\Debug\save the change problem.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\save the change problem\save the change problem\obj\Debug\save the change problem.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\save the change problem\save the change problem\obj\Debug\save the change problem.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\save the change problem\save the change problem\obj\Debug\save the change problem.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\save the change problem\save the change problem\obj\Debug\save the change problem.pdb

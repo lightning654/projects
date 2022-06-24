@@ -1,0 +1,8 @@
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\rolls a dice unti 6 is thrown\rolls a dice unti 6 is thrown\bin\Debug\rolls a dice unti 6 is thrown.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\rolls a dice unti 6 is thrown\rolls a dice unti 6 is thrown\bin\Debug\rolls a dice unti 6 is thrown.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\rolls a dice unti 6 is thrown\rolls a dice unti 6 is thrown\bin\Debug\rolls a dice unti 6 is thrown.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\rolls a dice unti 6 is thrown\rolls a dice unti 6 is thrown\obj\Debug\rolls a dice unti 6 is thrown.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\rolls a dice unti 6 is thrown\rolls a dice unti 6 is thrown\obj\Debug\rolls a dice unti 6 is thrown.csproj.SuggestedBindingRedirects.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\rolls a dice unti 6 is thrown\rolls a dice unti 6 is thrown\obj\Debug\rolls a dice unti 6 is thrown.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\rolls a dice unti 6 is thrown\rolls a dice unti 6 is thrown\obj\Debug\rolls a dice unti 6 is thrown.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\rolls a dice unti 6 is thrown\rolls a dice unti 6 is thrown\obj\Debug\rolls a dice unti 6 is thrown.pdb
