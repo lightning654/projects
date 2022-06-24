@@ -1,0 +1,7 @@
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\randon number between 1 and 6\randon number between 1 and 6\bin\Debug\randon number between 1 and 6.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\randon number between 1 and 6\randon number between 1 and 6\bin\Debug\randon number between 1 and 6.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\randon number between 1 and 6\randon number between 1 and 6\bin\Debug\randon number between 1 and 6.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\randon number between 1 and 6\randon number between 1 and 6\obj\Debug\randon number between 1 and 6.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\randon number between 1 and 6\randon number between 1 and 6\obj\Debug\randon number between 1 and 6.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\randon number between 1 and 6\randon number between 1 and 6\obj\Debug\randon number between 1 and 6.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\randon number between 1 and 6\randon number between 1 and 6\obj\Debug\randon number between 1 and 6.pdb

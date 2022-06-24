@@ -1,0 +1,8 @@
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\rate of infection for a virus\rate of infection for a virus\bin\Debug\rate of infection for a virus.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\rate of infection for a virus\rate of infection for a virus\bin\Debug\rate of infection for a virus.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\rate of infection for a virus\rate of infection for a virus\bin\Debug\rate of infection for a virus.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\rate of infection for a virus\rate of infection for a virus\obj\Debug\rate of infection for a virus.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\rate of infection for a virus\rate of infection for a virus\obj\Debug\rate of infection for a virus.csproj.SuggestedBindingRedirects.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\rate of infection for a virus\rate of infection for a virus\obj\Debug\rate of infection for a virus.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\rate of infection for a virus\rate of infection for a virus\obj\Debug\rate of infection for a virus.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\rate of infection for a virus\rate of infection for a virus\obj\Debug\rate of infection for a virus.pdb
