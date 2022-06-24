@@ -1,0 +1,8 @@
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\outputs string 10 times (2)\outputs string 10 times (2)\bin\Debug\outputs string 10 times (2).exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\outputs string 10 times (2)\outputs string 10 times (2)\bin\Debug\outputs string 10 times (2).exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\outputs string 10 times (2)\outputs string 10 times (2)\bin\Debug\outputs string 10 times (2).pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\outputs string 10 times (2)\outputs string 10 times (2)\obj\Debug\outputs string 10 times (2).csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\outputs string 10 times (2)\outputs string 10 times (2)\obj\Debug\outputs string 10 times (2).csproj.SuggestedBindingRedirects.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\outputs string 10 times (2)\outputs string 10 times (2)\obj\Debug\outputs string 10 times (2).csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\outputs string 10 times (2)\outputs string 10 times (2)\obj\Debug\outputs string 10 times (2).exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level CS\C# projects\outputs string 10 times (2)\outputs string 10 times (2)\obj\Debug\outputs string 10 times (2).pdb

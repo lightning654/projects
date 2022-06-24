@@ -1,0 +1,7 @@
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\outputs string 10 times\outputs string 10 times\bin\Debug\outputs string 10 times.exe.config
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\outputs string 10 times\outputs string 10 times\bin\Debug\outputs string 10 times.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\outputs string 10 times\outputs string 10 times\bin\Debug\outputs string 10 times.pdb
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\outputs string 10 times\outputs string 10 times\obj\Debug\outputs string 10 times.csproj.AssemblyReference.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\outputs string 10 times\outputs string 10 times\obj\Debug\outputs string 10 times.csproj.CoreCompileInputs.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\outputs string 10 times\outputs string 10 times\obj\Debug\outputs string 10 times.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\outputs string 10 times\outputs string 10 times\obj\Debug\outputs string 10 times.pdb

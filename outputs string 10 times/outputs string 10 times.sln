@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "outputs string 10 times", "outputs string 10 times\outputs string 10 times.csproj", "{804F0C85-E2AB-4B04-B98A-EFEE8DFBABCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{804F0C85-E2AB-4B04-B98A-EFEE8DFBABCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804F0C85-E2AB-4B04-B98A-EFEE8DFBABCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804F0C85-E2AB-4B04-B98A-EFEE8DFBABCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804F0C85-E2AB-4B04-B98A-EFEE8DFBABCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D42BE97A-978C-4127-9A74-CD1DE427605C}
+	EndGlobalSection
+EndGlobal
