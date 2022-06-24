@@ -1,0 +1,14 @@
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\solid, liquid or gas\solid, liquid or gas\obj\Debug\solid, liquid or gas.csproj.AssemblyReference.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\solid, liquid or gas\solid, liquid or gas\obj\Debug\solid, liquid or gas.csproj.CoreCompileInputs.cache
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\solid, liquid or gas\solid, liquid or gas\bin\Debug\solid, liquid or gas.exe.config
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\solid, liquid or gas\solid, liquid or gas\bin\Debug\solid, liquid or gas.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\solid, liquid or gas\solid, liquid or gas\bin\Debug\solid, liquid or gas.pdb
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\solid, liquid or gas\solid, liquid or gas\obj\Debug\solid, liquid or gas.exe
+C:\Users\zain_\OneDrive - The Sixth Form Bolton\A level cs\C# projects\solid, liquid or gas\solid, liquid or gas\obj\Debug\solid, liquid or gas.pdb
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\solid, liquid or gas\solid, liquid or gas\bin\Debug\solid, liquid or gas.exe.config
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\solid, liquid or gas\solid, liquid or gas\bin\Debug\solid, liquid or gas.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\solid, liquid or gas\solid, liquid or gas\bin\Debug\solid, liquid or gas.pdb
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\solid, liquid or gas\solid, liquid or gas\obj\Debug\solid, liquid or gas.csproj.AssemblyReference.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\solid, liquid or gas\solid, liquid or gas\obj\Debug\solid, liquid or gas.csproj.CoreCompileInputs.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\solid, liquid or gas\solid, liquid or gas\obj\Debug\solid, liquid or gas.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level CS\C# projects\solid, liquid or gas\solid, liquid or gas\obj\Debug\solid, liquid or gas.pdb

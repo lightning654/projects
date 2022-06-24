@@ -1,0 +1,7 @@
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\temperature converter\temperature converter\bin\Debug\temperature converter.exe.config
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\temperature converter\temperature converter\bin\Debug\temperature converter.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\temperature converter\temperature converter\bin\Debug\temperature converter.pdb
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\temperature converter\temperature converter\obj\Debug\temperature converter.csproj.AssemblyReference.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\temperature converter\temperature converter\obj\Debug\temperature converter.csproj.CoreCompileInputs.cache
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\temperature converter\temperature converter\obj\Debug\temperature converter.exe
+C:\Users\210208\OneDrive - The Sixth Form Bolton\A level cs\C# projects\temperature converter\temperature converter\obj\Debug\temperature converter.pdb
